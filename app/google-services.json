@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "77497271236",
+    "firebase_url": "https://mad-quiz-102d3-default-rtdb.firebaseio.com",
+    "project_id": "mad-quiz-102d3",
+    "storage_bucket": "mad-quiz-102d3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77497271236:android:8018e132bf85f56a5c1a91",
+        "android_client_info": {
+          "package_name": "com.example.madquiz2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDexdwUwrrEPT-yDFlvlYT-k1NcujIhT_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
